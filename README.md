@@ -29,7 +29,7 @@ The analysis follows a rigorous time series forecasting workflow:
 - **Key Libraries**: `forecast`, `tseries`, `ggplot2`, `stats`, `bootstrap`
 
 ##  File Structure
-- `analysis.R`: The complete R script containing data processing, modeling, and visualization.
+- `analysis.Rmd`: The complete R script containing data processing, modeling, and visualization.
 - `data.csv`: Raw dataset (CSV) from the National Bureau of Statistics.
 
 

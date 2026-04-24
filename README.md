@@ -33,7 +33,7 @@ The analysis follows a rigorous time series forecasting workflow:
 - `data.csv`: Raw dataset (CSV) from the National Bureau of Statistics.
 - `tsdiy_1.6.tar.gz`: Source package for specialized time series functions.
 
-## 🎓 About the Author
+##  About the Author
 - **Name**: Youyang Qu
 - **Major**: Financial Mathematics
 
